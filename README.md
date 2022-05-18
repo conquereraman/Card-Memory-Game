@@ -1,2 +1,2 @@
 # Card-Memory-Game
-Card Memory Game Using Html And Javascript
+This is a simple Card Memory Game Using Html And Javascript
